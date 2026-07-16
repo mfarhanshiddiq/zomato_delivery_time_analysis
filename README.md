@@ -41,25 +41,41 @@ Columns: 20
 • Power BI
 
 📈 Analysis
+
 • Data Cleaning
+
 • Exploratory Data Analysis
+
 • Correlation Analysis
+
 • Feature Analysis
+
 • Business Insights
 
 📊 Dashboard
+
 <img width="1010" height="709" alt="image" src="https://github.com/user-attachments/assets/36aa3514-9353-49a8-8b7e-a1042558e464" />
+
 <img width="1008" height="708" alt="image" src="https://github.com/user-attachments/assets/d20f63ab-2dc4-460d-a256-f64fb86e69ff" />
 
 🔑 Key Findings
+
 • Festival increases delivery time by 75.5%
+
 • Multiple deliveries increase delivery time by 51.2%
+
 • Heavy traffic increases delivery time by 45.4%
+
 • Courier rating has a moderate negative correlation (r = -0.33)
+
 • Distance has a moderate positive correlation (r = 0.32)
 
 💡 Business Recommendations
+
 • Optimize courier allocation during festivals.
+
 • Limit multiple deliveries during peak hours.
+
 • Improve route optimization based on traffic conditions.
+
 • Prioritize experienced couriers for high-demand periods.
