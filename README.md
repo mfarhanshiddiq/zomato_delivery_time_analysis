@@ -19,16 +19,25 @@ Which operational delivery factors (number of multiple deliveries, vehicle type 
 Which operational segments (city type, day, peak hour) exhibit the slowest delivery performance, and how should improvements be prioritized?
 
 📊 Dataset
+
 Source: Kaggle
+
 Rows: 45.584
+
 Columns: 20
 
 🛠️ Tools
+
 • Python
+
 • Pandas
+
 • NumPy
+
 • Matplotlib
+
 • Seaborn
+
 • Power BI
 
 📈 Analysis
