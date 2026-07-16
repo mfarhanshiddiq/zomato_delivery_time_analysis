@@ -1,21 +1,28 @@
 📦 Zomato Delivery Time Analysis
 
 📌 Project Overview
+
 Zomato is a food delivery platform whose performance is highly dependent on delivery speed. The longer the delivery time, the higher the risk of customer dissatisfaction, low ratings, or churn.
+
 The goal of this project was to identify the operational factors that most impact delivery times, so the team could take data-driven action.
 Benefits: Helping the operations team reduce average delivery times, increase customer satisfaction, and optimize courier resource allocation.
 
 🎯 Business Problem
+
 From approximately ~46,000 delivery data (February–April 2022), the average delivery time was 26.3 minutes — but the spread was wide (10–54 minutes). Zomato doesn't yet know the exact factors that determine delivery speed, making it difficult to take targeted operational action.
 
 Business Question
+
 1. External Conditions During Delivery
+
 How do external conditions (weather, traffic congestion, and festivals/public holidays) affect delivery times, and how significant is the impact quantitatively?
 
 2. Operational & Courier Factors
+
 Which operational delivery factors (number of multiple deliveries, vehicle type and condition, distance traveled, courier quality/rating) most influence delivery speed?
 
 3. Segmentation & Prioritization
+
 Which operational segments (city type, day, peak hour) exhibit the slowest delivery performance, and how should improvements be prioritized?
 
 📊 Dataset
